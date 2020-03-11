@@ -35,7 +35,7 @@
   .logo-manual {
     position: absolute;
     right: 650px;
-    top: 20px;
+    top: 60px;
     width: 200px;
     border: 0px solid #73AD21;
     padding: 0px;
@@ -45,7 +45,7 @@
     .logo-manual {
       position: absolute;
       right: 80px;
-      top: 20px;
+      top: 50px;
       width: 200px;
       border: 0px solid #73AD21;
       padding: 0px;
